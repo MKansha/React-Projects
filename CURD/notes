@@ -1,0 +1,7 @@
+md srever
+cd server
+npm init -y
+npm i express cros
+npm i nodemon -D  
+
+npm i axios(more easy than fetch) for api

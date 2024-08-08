@@ -1,0 +1,29 @@
+.cart-conatiner{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+
+}
+.cart-product
+{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+}
+.cart-product .img
+{
+    width: 100px;
+    height: 100px;
+}
+.cart-product .img img{
+    height: 100%;
+    width: 100%;
+}
+.cart-heading,.amount
+{
+    font-size: 20px;
+    font-weight: 600;
+
+}
